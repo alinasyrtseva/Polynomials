@@ -1,0 +1,38 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/lab_table/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/WINDOWS/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_23107.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R) Build Engine Version 4.0.30319.1
+[Microsoft .NET Framework версии 4.0.30319.1]
+ (C) Корпорация Майкрософт (Microsoft Corp.), 2007.
+
+Построение начато 09.05.2017 18:38:33.
+Проект "C:\lab_table\CMakeFiles\CMakeTmp\cmTC_23107.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "cmTC_23107.dir\Debug\".
+  Создание каталога "C:\lab_table\CMakeFiles\CMakeTmp\Debug\".
+InitializeBuildStatus:
+  Создание "cmTC_23107.dir\Debug\cmTC_23107.unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_23107.dir\Debug\\" /Fd"cmTC_23107.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckIncludeFile.c
+  Оптимизирующий 32-разрядный компилятор Microsoft (R) C/C++ версии 16.00.30319.01 для 80x86
+  (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_23107.dir\Debug\\" /Fd"cmTC_23107.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory [C:\lab_table\CMakeFiles\CMakeTmp\cmTC_23107.vcxproj]
+Построение проекта "C:\lab_table\CMakeFiles\CMakeTmp\cmTC_23107.vcxproj" завершено (целевые объекты по умолчанию) с ошибкой.
+
+Не удалось выполнить построение.
+
+"C:\lab_table\CMakeFiles\CMakeTmp\cmTC_23107.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory [C:\lab_table\CMakeFiles\CMakeTmp\cmTC_23107.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Затраченное время: 00:00:00.35
+
+

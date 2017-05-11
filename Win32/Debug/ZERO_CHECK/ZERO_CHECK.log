@@ -1,0 +1,22 @@
+﻿Построение начато 09.05.2017 18:38:56.
+     1>Проект "C:\lab_table\ZERO_CHECK.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\lab_table\Debug\".
+       InitializeBuildStatus:
+         Создание "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/lab_table/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/lab_table/src/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/lab_table/test/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/lab_table/3rdparty/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/lab_table/3rdparty/gtest/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/lab_table/app/CMakeFiles/generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Файл "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" удаляется.
+         Обращение к "Win32\Debug\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
+     1>Построение проекта "C:\lab_table\ZERO_CHECK.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.32

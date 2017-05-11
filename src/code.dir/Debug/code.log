@@ -1,0 +1,21 @@
+﻿Построение начато 11.05.2017 0:22:26.
+     1>Проект "C:\lab_table\src\code.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "code.dir\Debug\code.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Для всех выходных данных обновления не требуется.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\lab_table\include /IC:\lab_table\src\..\include /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"code.dir\Debug\\" /Fd"code.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Tables.cpp
+         Tables.cpp
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\lab_table\src\Debug\code.lib" /NOLOGO code.dir\Debug\Polynomials.obj
+         code.dir\Debug\Tables.obj   /machine:X86
+         code.vcxproj -> C:\lab_table\src\Debug\code.lib
+       FinalizeBuildStatus:
+         Файл "code.dir\Debug\code.unsuccessfulbuild" удаляется.
+         Обращение к "code.dir\Debug\code.lastbuildstate".
+     1>Построение проекта "C:\lab_table\src\code.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.87
